@@ -1,6 +1,7 @@
 # Welcome to my Page 🌟
 I’m a software developer based in Istanbul, Turkey. Interested about:
 
+- ⚡ Ziglang
 - 🖥️ Backend Web Development
 - 🛠️ Kernel Development
 - 🚀 DevOps
