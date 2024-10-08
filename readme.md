@@ -9,8 +9,8 @@ I’m a software developer based in Istanbul, Turkey. Interested about:
 My Projects 📂:
 
 -	tiny-http-zig : A comprehensive web application for managing tasks and projects.
--	Kernel Explorer: Tools and utilities for kernel development and debugging.
--	DevOps Pipeline: Automated CI/CD pipelines for rapid and reliable software releases.
+-	myos: A simple riscv kernel for embedded systems.
+-	sfman: silly file manager built with sdl2
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-lgtm&layout=compact)
 
