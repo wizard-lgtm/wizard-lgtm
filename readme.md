@@ -1,29 +1,19 @@
 # Welcome to my Page 🌟
-I’m a software developer based in Istanbul, Turkey. Interested about:
+nah i don't like fancy fake stupid github readmes
 
-- ⚡ Ziglang
-- 🖥️ Backend Web Development
-- 🛠️ Kernel Development
-- 🚀 DevOps
+it's just j. i'm writing c zig c3lang and risc-v assembly kernel, networking, 2d
 
-My Projects 📂:
-
--	tiny-http-zig : A comprehensive web application for managing tasks and projects.
--	myos: A simple riscv kernel for embedded systems.
--	sfman: silly file manager built with sdl2
+projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-lgtm&layout=compact)
 
-My stats 📊
-
-![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard-lgtm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icon=true)
+![J's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard-lgtm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icon=true)
 
 
-Connect with Me:
+contact:
 
-- 🗨️ Discord Nickname: ziggywizard
-- 🌐 [Personal Homepage](https://ziggywizard.dev)
-- ▶️ [Youtube Channel](https://www.youtube.com/@ziggywizard)
-- 📝 [My Notes](https://notes.ziggywizard.dev)
+- discord: _sameoldmistakes
+- [page](https://wizard-lgtm.github.io)
+- [Youtube Channel](https://www.youtube.com/@xfxpositions)
 
-Feel free to reach out for collaborations or just to say hi! 😊
+Now it's better, that page was written by chatgpt. it had no soul, but there's now.
