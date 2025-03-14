@@ -1,4 +1,3 @@
-# Welcome to my Page 🌟
 nah i don't like fancy fake stupid github readmes
 
 it's just j. i'm writing c zig c3lang and risc-v assembly kernel, networking, 2d
