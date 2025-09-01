@@ -17,8 +17,5 @@ Tiny http framework zig implementation -> https://github.com/wizard-lgtm/tiny-ht
 
 contact:
 
-- discord: _sameoldmistakes
-- [page](https://wizard-lgtm.github.io)
-- [Youtube Channel](https://www.youtube.com/@xfxpositions)
 
-Now it's better, that page was written by chatgpt. it had no soul, but there's now.
+\no
