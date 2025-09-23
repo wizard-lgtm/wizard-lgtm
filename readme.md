@@ -1,5 +1,6 @@
 
-i'm writing c zig c3lang and risc-v assembly kernel, networking, 2d holyc 
+i'm writing c zig c3lang riscv64asm holyc 
+have experience on frontend (js/css/react/vue) and backend (rust, node)
 
 projects:
 
