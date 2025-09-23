@@ -16,6 +16,4 @@ Tiny http framework zig implementation -> https://github.com/wizard-lgtm/tiny-ht
 
 
 contact:
-
-
-\no
+rippiten23@gmail.com
